@@ -3,6 +3,8 @@ import pandas as pd
 
 df= pd.read_csv('DB_CSV.csv')
 
+mmg
+
 print (df)
 
 with open('DB_CSV.csv', newline='',mode= 'r+') as eggs:
